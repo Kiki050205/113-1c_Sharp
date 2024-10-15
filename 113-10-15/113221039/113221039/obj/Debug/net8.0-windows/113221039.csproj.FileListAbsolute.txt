@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\bin\Debug\net8.0-windows\113221039.exe
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\bin\Debug\net8.0-windows\113221039.deps.json
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\bin\Debug\net8.0-windows\113221039.runtimeconfig.json
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\bin\Debug\net8.0-windows\113221039.dll
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\bin\Debug\net8.0-windows\113221039.pdb
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\_113221039.Form1.resources
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.AssemblyInfo.cs
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.sourcelink.json
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.dll
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\refint\113221039.dll
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.pdb
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\113221039.genruntimeconfig.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-10-15\113221039\113221039\obj\Debug\net8.0-windows\ref\113221039.dll
