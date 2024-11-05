@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\bin\Debug\113-11-05-2.exe.config
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\bin\Debug\113-11-05-2.exe
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\bin\Debug\113-11-05-2.pdb
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\113-11-05-2.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\_113_11_05_2.Form1.resources
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\_113_11_05_2.Properties.Resources.resources
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\113-11-05-2.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\113-11-05-2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\113-11-05-2.exe
+C:\Users\shu\Desktop\113-1c_Sharp\113-11-05\113-11-05-2\113-11-05-2\obj\Debug\113-11-05-2.pdb
